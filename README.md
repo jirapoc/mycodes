@@ -1,2 +1,2 @@
 # mycodes
-repository for test management demo
+repository for test management demo.
